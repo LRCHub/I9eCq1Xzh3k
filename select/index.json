@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "色は匂へど散りぬるを(full ver.)",
+  "base_artist": "幽閉サテライト",
+  "createdAt": "2026-02-06T07:28:22.296748Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "色は匂へど散りぬるを(full ver.)",
+      "artist": "幽閉サテライト",
+      "has_synced": true,
+      "path": "select/01_色は匂へど散りぬるを(full_ver.)_幽閉サテライト.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "色は匂へど散りぬるを(full ver.)",
+      "artist": "Yuuhei Satellite",
+      "has_synced": true,
+      "path": "select/02_色は匂へど散りぬるを(full_ver.)_Yuuhei_Satellite.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "色は匂へど散りぬるを(full ver.)",
+      "artist": "Various Artists",
+      "has_synced": true,
+      "path": "select/03_色は匂へど散りぬるを(full_ver.)_Various_Artists.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "色は匂へど散りぬるを",
+      "artist": "幽閉サテライト",
+      "has_synced": false,
+      "path": "select/pl_01_色は匂へど散りぬるを_幽閉サテライト.txt"
+    }
+  ]
+}
